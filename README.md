@@ -4,4 +4,4 @@ SendIT is a courier service that enables users make there own orders to either s
 
 [![Coverage Status](https://coveralls.io/repos/github/<github musasizifrancis>/<SendIT>/badge.svg?branch=develop)](https://coveralls.io/github/<github musasizifrancis>/<repo name>?branch=develop
   
-  [![Code Climate](https://codeclimate.com/github/musasizifrancis/SendIT/builds/1
+  [![Code Climate](https://codeclimate.com/github/codeclimate/codeclimate/badges/gpa.svg)](https://codeclimate.com/github/<github musasizifrancis>/<SendIT>)
