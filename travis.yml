@@ -10,5 +10,8 @@ python:
      - coveralls
   branches:
     only:
-      - develop   
+      - develop 
+   service_name: travis-pro
+repo_token: XO5jLmRadHEVdqG2FKvELswLDwYlIW312
+   
  
