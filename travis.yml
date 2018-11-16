@@ -8,4 +8,7 @@ python:
    - pytest -v
  after success:
      - coveralls
+  branches:
+    only:
+      - develop   
  
